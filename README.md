@@ -12,3 +12,7 @@ https://github.com/rhare86/run-buddy2/
 
 ## Contribution
 Made with ❤️ by Ron Hare
+
+
+# Run Buddy Inc.
+
