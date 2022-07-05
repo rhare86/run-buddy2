@@ -14,5 +14,4 @@ https://github.com/rhare86/run-buddy2/
 Made with ❤️ by Ron Hare
 
 
-# Run Buddy Inc.
-
+### ©️2019 Run Buddy, Inc 
